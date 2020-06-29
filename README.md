@@ -1,4 +1,4 @@
-# MemoryGameConsole
+# Memory Game Console App
 C# course assignment, console game - memory/matching game
 
 Game Options:
